@@ -6,7 +6,7 @@ public class Condition {
 		
 		String cor = "고속버스";
 		int gate = 10;
-		int charge = 0;
+		int charge = 0; 
 		int plus = 0;
 		
 		System.out.println("<<고속도로 통행료 계산>>");
