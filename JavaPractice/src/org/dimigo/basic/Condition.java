@@ -35,7 +35,7 @@ public class Condition {
 		if (gate <= 10){	
 			System.out.println("통행료 : " + charge);
 		} else 	
-			System.out.println("통행료 : " + charge + plus * gate/10);		
+			System.out.println("통행료 : " + (charge + plus * gate/10));		
 		}
 		
 	
